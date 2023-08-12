@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @suhailahmedtoha
+- 👋 Hi, I’m _Toha
 - 👀 I’m interested in learning new programming language 
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
